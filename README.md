@@ -1,6 +1,6 @@
 # A recommendation system to teleplays
 
-![demo](https://github.com/incandescentxxc/DV_AUFire-Air/blob/master/readme_resources/aus_vis_demo.gif)
+![demo](https://github.com/incandescentxxc/Teleplay-Recommendation-System/blob/main/recommendation.png)
 ## Features:
     - Used map and reduce to preprocess data
     - Implemented linear regression using gradient descent algorithm without calling third-party library
